@@ -1,0 +1,13 @@
+{
+  "version": "0.2.69",
+  "title": "OpenClaw Workstation 0.2.69",
+  "notes": "【海外】新增 GitHub Releases 全球更新镜像，海外用户不再依赖大陆服务器。【更新】并行检测 Cloudflare / GitHub / 大陆三条更新通道，先响应者优先。",
+  "downloadUrl": "https://github.com/M2-King/openclaw-workstation-releases/releases/download/v0.2.69/OpenClawWorkstation-0.2.69.ocwupdate",
+  "sha256": "78E430B03B3AA6B917776AEC40A862F31F5305B9A7E63CCE8648E5B96D68D0A6",
+  "size": 86953452,
+  "installerSha256": "E1CEFC7B76F1DE439A838D2BECB82D4E5A7F86A5E5ED87691237BB002DEAA7D1",
+  "installerSize": 86952861,
+  "encoding": "gzip",
+  "mandatory": false,
+  "publishedAt": "2026-08-24T03:47:31.700Z"
+}
