@@ -1,13 +1,13 @@
 {
-  "version": "0.2.72",
-  "title": "OpenClaw Workstation 0.2.72",
-  "notes": "銆愪慨澶嶃€戣В鍐虫洿鏂版娴嬭 Cloudflare 鏃х増 0.2.10 鎶㈠厛杩斿洖鑰岃鍒や负宸叉槸鏈€鏂扮増鐨勯棶棰橈紱鐜板湪浼氭瘮杈冩墍鏈夐暅鍍忓苟閫夋嫨鏈€楂樼増鏈€?,
-  "size": 94614988,
-  "sha256": "AD75447F5AF7D599C3237445D2286B3998277B166252E780C477E3526188CFD3",
-  "installerSha256": "F3F2D747C337985580D75964E10DDF088D737F06B61CCC985393EF11A9721C78",
-  "installerSize": 94611793,
+  "version": "0.2.73",
+  "title": "OpenClaw Workstation 0.2.73",
+  "notes": "銆愰摼璺€戞柊澧?DAG 宸ヤ綔娴佸紩鎿庛€佸唴缃璁俱€佹惌寤哄姪鎵嬩笌杩愯鍘嗗彶椤点€傘€愪慨澶嶃€戞洿鏂版娴嬩紭鍏堟瘮杈冩墍鏈夐暅鍍忕増鏈紝閬垮厤 Cloudflare 鏃х増璇垽銆?,
+  "size": 95232962,
+  "sha256": "3BEFC650A31A795D064BC6A5ED8BC342C172040487E16FDC8667C0243BA23BE6",
+  "installerSha256": "D31339B3817791A256DB2DC1CD9F5A63BBC727B98240E3701F93B2B682DCF52C",
+  "installerSize": 95229583,
   "encoding": "gzip",
   "mandatory": false,
-  "publishedAt": "2026-08-24T07:32:05.687Z",
-  "downloadUrl": "https://github.com/M2-King/openclaw-workstation-releases/releases/download/v0.2.72/OpenClawWorkstation-0.2.72.ocwupdate"
+  "publishedAt": "2026-08-24T07:55:00.537Z",
+  "downloadUrl": "https://github.com/M2-King/openclaw-workstation-releases/releases/download/v0.2.73/OpenClawWorkstation-0.2.73.ocwupdate"
 }
